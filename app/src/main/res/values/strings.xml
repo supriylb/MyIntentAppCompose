@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyIntentAppCompose</string>
+
+    <string name="move_activity">Move Activity</string>
+    <string name="this_is_move_activity">This is Move Activity</string>
+    <string name="move_with_data">Move Activity with Data</string>
+    <string name="move_with_object">Move Activity with Object</string>
+    <string name="move_with_result">Move Activity for Result</string>
+    <string name="dial_number">Dial a Number</string>
+
+    <string name="prompt_choose_number">Choose a number:</string>
+    <string name="btn_choose">Choose</string>
+
+    <string name="format_user_data">Name: %1$s\nAge: %2$d</string>
+    <string name="result_activity_default">Result from Activity</string>
+    <string name="result_activity_format">Result from Activity: %1$d</string>
+</resources>
